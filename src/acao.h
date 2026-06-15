@@ -4,18 +4,12 @@
 typedef struct {
     char id[10];
     char ticker[50];
-    int custo;
-    int retorno;
+    float custo;
+    float retorno;
 } Acao;
 
-Acao *criarListaAcoes(int quantidade);
-
-void liberarListaAcoes(Acao *acoes);
-
-int lerAcoesTeclado(Acao **acoes, int *quantidade, int *capital);
-
-int lerAcoesArquivo(char nomeArquivo[], Acao **acoes, int *quantidade, int *capital);
-
-void exibirAcoesDisponiveis(Acao *acoes, int quantidade);
+void lerAcoesTeclado(Acao acoes[], int *quantidade, float *capital);
+void lerAcoesArquivo(char nomeArquivo[], Acao acoes[], int *quantidade, float *capital);
+void exibirAcoesDisponiveis(Acao acoes[], int quantidade);
 
 #endif
