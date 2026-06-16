@@ -1,4 +1,0 @@
-3 3
-A 4 10 ACAO_A
-B 5 20 ACAO_B
-C 6 30 ACAO_C

@@ -1,6 +1,19 @@
 Acoes escolhidas:
-Nenhuma acao escolhida.
+A | Ticker: US_BANK | Custo: R$ 4500.50 | Retorno: 5.5%
+B | Ticker: EU_AUTO | Custo: R$ 6200.75 | Retorno: 7.8%
+C | Ticker: JP_ELEC | Custo: R$ 3800.25 | Retorno: 4.9%
+D | Ticker: CN_TECH | Custo: R$ 7100.00 | Retorno: 8.9%
+F | Ticker: BR_COMMOD | Custo: R$ 2900.00 | Retorno: 4.2%
+G | Ticker: IN_IT | Custo: R$ 4100.80 | Retorno: 5.1%
+H | Ticker: DE_IND | Custo: R$ 8300.00 | Retorno: 10.2%
+I | Ticker: AU_MINING | Custo: R$ 3250.60 | Retorno: 4.5%
+L | Ticker: CA_ENERGY | Custo: R$ 4450.00 | Retorno: 5.4%
+O | Ticker: TW_SEMI | Custo: R$ 6800.90 | Retorno: 8.5%
+P | Ticker: ZA_TELECOM | Custo: R$ 2100.00 | Retorno: 3.5%
+S | Ticker: SG_REALTY | Custo: R$ 3450.00 | Retorno: 4.6%
+V | Ticker: JP_ROBOT | Custo: R$ 4300.00 | Retorno: 5.3%
+X | Ticker: BR_AGRO | Custo: R$ 3700.40 | Retorno: 4.7%
 
-Custo total: R$ 0.00
-Retorno total: 0.0%
-Capital restante: R$ 3.00
+Custo total: R$ 64954.20
+Retorno total: 83.1%
+Capital restante: R$ 45.80
